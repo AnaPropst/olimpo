@@ -15,11 +15,10 @@ div {
     padding: 2px;
 
 }
-
 a {
     color: black;
+   border: 2px;
 }
-
 .links {
     display: flex;
     flex-direction: column;
