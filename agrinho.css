@@ -31,7 +31,7 @@
 
 .capa{
 display: grid;
-    grid-template-columns: 55% 45%fg;
+    grid-template-columns: 55% 45%;
 
 }
 header{
