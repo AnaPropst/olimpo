@@ -24,3 +24,8 @@
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
+
+header{
+display: grid;
+    grid-template-columns: 40% 20% 20% 20%;
+}
