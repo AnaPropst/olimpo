@@ -16,7 +16,7 @@
     background-color: #e7894f;
     color: #fff6ea;
     display: grid;
-    grid-template-columns: 70% 30%;
+    grid-template-columns: 30% 70%;
 }
 
 
