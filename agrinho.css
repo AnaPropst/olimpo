@@ -15,6 +15,8 @@
 .laranja-sim{
     background-color: #e7894f;
     color: #fff6ea;
+    display: grid;
+    grid-template-columns: 30% 70%;
 }
 
 
