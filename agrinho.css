@@ -28,7 +28,16 @@
     grid-template-columns: 33% 33% 33%;
 }
 
+
+.capa{
+display: grid;
+    grid-template-columns: 55% 45%fg;
+
+}
 header{
 display: grid;
     grid-template-columns: 40% 20% 20% 20%;
+    align-items: center;
+    justify-items: center;
+
 }
