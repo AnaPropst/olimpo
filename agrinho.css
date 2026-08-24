@@ -16,3 +16,9 @@
     background-color: #e7894f;
     color: #e56e26;
 }
+
+
+.frutas{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
